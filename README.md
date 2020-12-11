@@ -2,7 +2,7 @@
 This repository contains the code that stitches a sequence of close-range (several cms) camera images from different lateral positions of a scene with mm-scale height variation. The output is a stitched orthomosaic and a coaligned height map with accuracy as good as tens of microns. For more information on methodology and results, see our paper at TBD.
 
 ## Data
-The image sequence datasets can be downloaded at TBD.
+The image sequence datasets can be downloaded at https://doi.org/10.6084/m9.figshare.13363574.
 
 ## Required packages
 The code requires the following python 3 libraries:
