@@ -1,5 +1,5 @@
 # Mesoscopic photogrammetry with an unstabilized phone camera
-This repository contains the code that stitches a sequence of close-range (several cms) camera images from different lateral positions of a scene with mm-scale height variation. The output is a stitched orthomosaic and a coaligned height map with accuracy as good as tens of microns. For more information on methodology and results, see our paper at https://arxiv.org/abs/2012.06044.
+This repository contains the code that stitches a sequence of close-range (several cms) camera images from different lateral positions of a scene with mm-scale height variation. The output is a stitched orthomosaic and a coaligned height map with accuracy as good as tens of microns. For more information on methodology and results, see our [CVPR 2021 paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Mesoscopic_Photogrammetry_With_an_Unstabilized_Phone_Camera_CVPR_2021_paper.html).
 
 ## Data
 The image sequence datasets can be downloaded at https://doi.org/10.6084/m9.figshare.13363574.
